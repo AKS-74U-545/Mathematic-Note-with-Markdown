@@ -8,7 +8,7 @@
 * $Y为f的值域,即X中所有元素的像的集合,记作R_f$
 #### 映射的要素
 * $D_f = X$,$R_f \subset Y 或 R_f = Y$
-* $\forall x \in X, \exist y=f(x)唯一$
+* $\forall x \in X, \exists y=f(x)唯一$
 * $而\forall y \in R_f, y的原像不一定唯一$
 #### 特殊映射
 * $若R_f = Y,则称f为X到Y的满射$
